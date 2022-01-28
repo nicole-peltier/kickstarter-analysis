@@ -22,4 +22,3 @@ One conclusion that can be drawn about the outcomes based on goals is that a pla
 Some limitations of this dataset that might affect the goal of the analysis is that the dataset does not include genres. So while the purpose of our analysis is to look at the outcomes of other plays, it would be more beneficial to see the same results for the genre of play that our user is looking for.
 - What are some other possible tables and/or graphs that we could create?
 Some tables that could be created would be specific outcomes related to where the play is hoped to be launched. This would cause a better analysis and a more realistic outcome. This table could also then be translated into a bar graph to show the number of succesful, failed, and canceled kickstarters.
-s
